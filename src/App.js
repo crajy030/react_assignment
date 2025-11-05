@@ -125,6 +125,7 @@ return (
                         <nav>
                             <ProcButtons />
                             <br />
+                            <hr className="border-top border-secondary border-3 opacity-50 my-3 w-100"/>
                             <PlayButtons />                                                  
                         </nav>
                     </div>
